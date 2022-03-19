@@ -1,0 +1,22 @@
+html,body {
+    height: 100%;
+}
+
+* {
+    font-family: monospace;
+    word-spacing: -0.25rem;
+}
+
+.input-group-text {
+    flex-direction: row;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    width: auto;
+}
+
+a:hover{
+    text-decoration: underline;
+}

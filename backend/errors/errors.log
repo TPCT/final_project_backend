@@ -1,0 +1,756 @@
+[02-Mar-2022 02:58:55 Africa/Cairo] PHP Fatal error:  Uncaught TypeError: fwrite(): supplied resource is not a valid stream resource in /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php:60
+Stack trace:
+#0 /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php(60): fwrite()
+#1 /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php(29): core\ErrorLogger->message()
+#2 [internal function]: core\ErrorLogger->core\{closure}()
+#3 {main}
+  thrown in /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php on line 60
+[02-Mar-2022 02:58:57 Africa/Cairo] PHP Fatal error:  Uncaught TypeError: fwrite(): supplied resource is not a valid stream resource in /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php:60
+Stack trace:
+#0 /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php(60): fwrite()
+#1 /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php(29): core\ErrorLogger->message()
+#2 [internal function]: core\ErrorLogger->core\{closure}()
+#3 {main}
+  thrown in /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php on line 60
+[02-Mar-2022 02:59:58 Africa/Cairo] PHP Fatal error:  Uncaught TypeError: fwrite(): supplied resource is not a valid stream resource in /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php:60
+Stack trace:
+#0 /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php(60): fwrite()
+#1 /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php(29): core\ErrorLogger->message()
+#2 [internal function]: core\ErrorLogger->core\{closure}()
+#3 {main}
+  thrown in /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php on line 60
+[02-Mar-2022 02:59:59 Africa/Cairo] PHP Fatal error:  Uncaught TypeError: fwrite(): supplied resource is not a valid stream resource in /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php:60
+Stack trace:
+#0 /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php(60): fwrite()
+#1 /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php(29): core\ErrorLogger->message()
+#2 [internal function]: core\ErrorLogger->core\{closure}()
+#3 {main}
+  thrown in /media/tpct/250263A6544743D3/final project/backend/core/ErrorLogger.php on line 60
+[2022/03/19 5:38:08 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiAuthenticationModel.php
+	Line Number: 55
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:40:54 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiAuthenticationModel.php
+	Line Number: 55
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:40:55 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:02 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:06 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:09 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:13 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:17 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:20 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:24 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:28 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:32 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:37 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:40 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:44 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:48 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:52 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:56 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:41:59 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:03 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:07 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:11 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:16 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:19 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:23 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:28 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:32 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:36 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:40 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:43 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:47 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:51 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:54 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:42:58 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:02 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:06 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:11 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:16 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:21 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:26 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:32 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:37 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:42 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:47 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:52 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:43:57 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:44:02 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:44:07 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:44:12 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:44:17 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 5:44:22 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:08:45 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiAuthenticationModel.php
+	Line Number: 55
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:08:46 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:08:53 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:00 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:04 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:08 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:13 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:18 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:23 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:28 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:33 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:39 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:44 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:49 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:54 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:09:59 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:10:04 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:10:09 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:10:13 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:10:20 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:10:25 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:10:30 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:10:34 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:10:39 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:10:44 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:10:49 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:10:54 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:00 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:04 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:09 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:14 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:19 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:25 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:29 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:34 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:39 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:44 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:48 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:11:55 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:01 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:05 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:10 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:16 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:20 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:25 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:30 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:36 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:41 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:45 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:50 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:12:55 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:13:00 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}
+[2022/03/19 6:13:05 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/models/embedded/ApiLogEventModel.php
+	Line Number: 31
+	Error String: {
+	    Function strftime() is deprecated
+	}
+}

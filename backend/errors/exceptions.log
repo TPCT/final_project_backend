@@ -1,0 +1,49 @@
+[2022/03/19 2:52:32 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/core/Database.php
+	Line Number: 28
+	Error String: {
+	    SQLSTATE[HY000] [2002] Connection refused
+	}
+}
+[2022/03/19 2:52:32 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/core/Database.php
+	Line Number: 28
+	Error String: {
+	    SQLSTATE[HY000] [2002] Connection refused
+	}
+}
+[2022/03/19 2:53:00 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/core/Database.php
+	Line Number: 28
+	Error String: {
+	    SQLSTATE[HY000] [2002] Connection refused
+	}
+}
+[2022/03/19 2:53:01 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/core/Database.php
+	Line Number: 28
+	Error String: {
+	    SQLSTATE[HY000] [2002] Connection refused
+	}
+}
+[2022/03/19 2:53:08 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/core/Database.php
+	Line Number: 28
+	Error String: {
+	    SQLSTATE[HY000] [2002] Connection refused
+	}
+}
+[2022/03/19 2:53:09 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/core/Database.php
+	Line Number: 28
+	Error String: {
+	    SQLSTATE[HY000] [2002] Connection refused
+	}
+}
+[2022/03/19 5:10:08 PM]{
+	Error File: /media/tpct/250263A6544743D3/final project/backend/core/Database.php
+	Line Number: 26
+	Error String: {
+	    SQLSTATE[HY000] [1049] Unknown database 'trains_system'
+	}
+}
